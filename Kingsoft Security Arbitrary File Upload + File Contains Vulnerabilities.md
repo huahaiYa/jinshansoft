@@ -43,7 +43,7 @@ file_put_contents("Trojan.php", $test);
 
 After the file is successfully uploaded, the echo packet contains the file name. for example:
 
-![Image](C:%5CUsers%5CAdministrator%5CDesktop%5CKingsoft%20Security%20Arbitrary%20File%20Upload%20+%20File%20Contains%20Vulnerabiliti%5CKingsoft%20Security%20Arbitrary%20File%20Upload%20+%20File%20Contains%20Vulnerabilities%5CImage.png)
+![Image](Image.png)
 
 But the sad part is that the file cannot be accessed directly,final,I found that the file /inter/ajax.php has file inclusion loopholes, which can contain file upload loopholes. Upload files and write them into the webshell to achieve the effect of controlling the host.
 
