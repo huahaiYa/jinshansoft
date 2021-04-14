@@ -75,5 +75,5 @@ Finally visit /inter/Trojan.php, successfully access the write file address
 
 eg：
 
-![shell](C:%5CUsers%5CAdministrator%5CDesktop%5CKingsoft%20Security%20Arbitrary%20File%20Upload%20+%20File%20Contains%20Vulnerabiliti%5CKingsoft%20Security%20Arbitrary%20File%20Upload%20+%20File%20Contains%20Vulnerabilities%5Cshell.png)
+![shell](shell.png)
 
